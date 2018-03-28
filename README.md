@@ -1,4 +1,7 @@
 # tljs
+
+[![Travis](https://img.shields.io/travis/USER/REPO.svg?style=flat-square)](https://travis-ci.org/theJian/tljs)
+
 Tiny template engine powered by es6 template literals
 
 - Super small (< 30 lines).
