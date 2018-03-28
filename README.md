@@ -1,6 +1,7 @@
 # tljs
 
-[![Travis](https://img.shields.io/travis/USER/REPO.svg?style=flat-square)](https://travis-ci.org/theJian/tljs)
+[![Travis](https://img.shields.io/travis/theJian/tljs.svg?style=flat-square)](https://travis-ci.org/theJian/tljs.svg?branch=master)
+
 
 Tiny template engine powered by es6 template literals
 
