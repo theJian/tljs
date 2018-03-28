@@ -2,7 +2,10 @@
   "name": "tljs",
   "version": "0.2.0",
   "main": "lib/index.js",
-  "repository": "https://github.com/theJian/tljs.git",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/theJian/tljs.git"
+  },
   "author": "theJian <thejianmail@gmail.com>",
   "license": "MIT",
   "scripts": {
@@ -16,5 +19,14 @@
     "babel-cli": "^6.26.0",
     "babel-preset-env": "^1.6.1",
     "jest": "^22.4.3"
-  }
+  },
+  "description": "Tiny template engine powered by es6 template literals",
+  "bugs": {
+    "url": "https://github.com/theJian/tljs/issues"
+  },
+  "homepage": "https://github.com/theJian/tljs#readme",
+  "keywords": [
+    "template",
+    "engine"
+  ]
 }
