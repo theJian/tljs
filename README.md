@@ -1,6 +1,7 @@
 # tljs
 
 [![Travis](https://img.shields.io/travis/theJian/tljs.svg?style=flat-square)](https://travis-ci.org/theJian/tljs.svg?branch=master)
+[![npm](https://img.shields.io/npm/v/tljs.svg?style=flat-square)](https://www.npmjs.com/package/tljs)
 
 
 Tiny template engine powered by es6 template literals
