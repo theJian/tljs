@@ -16,9 +16,9 @@
     "test:watch": "npm run test -- --watch"
   },
   "devDependencies": {
-    "babel-cli": "^6.26.0",
-    "babel-preset-env": "^1.6.1",
-    "jest": "^22.4.3"
+    "babel-cli": "6.26.0",
+    "babel-preset-env": "1.6.1",
+    "jest": "22.4.3"
   },
   "description": "Tiny template engine powered by es6 template literals",
   "bugs": {
